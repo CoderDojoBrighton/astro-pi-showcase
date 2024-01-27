@@ -8,16 +8,15 @@ Ninjas wrote a program to display a personalised image (or series of images) on 
 
 ## Alfie
 
-![](images/alfie.jpg)
+<img src ="images/alfie.jpg" width="256">
 
 ## Daniel
 
-![](images/daniel.jpg)
+<img src ="images/daniel.jpg" width="256">
 
 ## Freddie
 
-![](images/freddie.jpg)
-
+<img src ="images/freddie.jpg" width="256">
 
 ## Sam
 
@@ -26,4 +25,3 @@ Ninjas wrote a program to display a personalised image (or series of images) on 
 ## Soren
 
 ![](images/soren.gif)
-
