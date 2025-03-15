@@ -10,6 +10,10 @@ Ninjas wrote a program to display a personalised image (or series of images) on 
 
 ![](images/arthur.jpg)
 
+## Khaleel
+
+![](images/khaleel.jpg)
+
 ## Minnie
 
 ![](images/minnie.jpg)
